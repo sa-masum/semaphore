@@ -1,2 +1,14 @@
-# semaphore
-It is a mern website which implements a customer mangement system. Admin can register &amp; login to account. He can explore his profile &amp; edit his profile &amp; change password. He can add customers after filling needed field. He can see the customer lists and edit the customer if needed.
+# Semaphore
+**Semaphore is a MERN-based Customer Management System designed to simplify customer data management.**
+
+**Technology used**
+    - **Frontend:** HTML, CSS, Tailwind, React
+    - **Backend:** Node.js, Express.js, MongoDB
+
+**Features**
+    - **Admin Authentication:** Secure Registration & Login sytem for admin
+    - **Profile Management:** Admin can view, edit his/her profile & change password
+    - **Customer Management:** Admin can:
+        - Add customer by filling in required fields
+        - View the list of all customers
+        - Edit customer information if needed
