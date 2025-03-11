@@ -1,7 +1,7 @@
 # Semaphore
 **Semaphore is a MERN-based Customer Management System designed to simplify customer data management.**
 
-**Technology used**
+**Technology used**<br>
     - **Frontend:** HTML, CSS, Tailwind, React
     - **Backend:** Node.js, Express.js, MongoDB
 
