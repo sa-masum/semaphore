@@ -3,9 +3,9 @@
 
 **Technology used**<br>
     - **Frontend:** HTML, CSS, Tailwind, React   <br>
-    - **Backend:** Node.js, Express.js, MongoDB
+    - **Backend:** Node.js, Express.js, MongoDB <br>
 
-**Features**
+**Features**  <br>
     - **Admin Authentication:** Secure Registration & Login sytem for admin   <br>
     - **Profile Management:** Admin can view, edit his/her profile & change password    <br>
     - **Customer Management:** Admin can:   <br>
